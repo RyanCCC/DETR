@@ -18,9 +18,9 @@ detr-tensorflow](https://github.com/Visual-Behavior/detr-tensorflow)。DETR网�
 
 ## 介绍说明
 
-- ✍ [DETR Tensorflow - How to load a dataset.ipynb](https://github.com/Visual-Behavior/detr-tensorflow/blob/main/notebooks/How%20to%20load%20a%20dataset.ipynb)
-- ✍ [DETR Tensorflow - Finetuning tutorial.ipynb](https://github.com/Visual-Behavior/detr-tensorflow/blob/main/notebooks/DETR%20Tensorflow%20-%20%20Finetuning%20tutorial.ipynb)
-- ✍ [DETR Tensorflow - How to setup a custom dataset.ipynb](https://github.com/Visual-Behavior/detr-tensorflow/blob/main/notebooks/DETR%20Tensorflow%20-%20%20How%20to%20setup%20a%20custom%20dataset.ipynb)
+- ✍ [DETR Tensorflow - How to load a dataset.ipynb](https://github.com/RyanCCC/DETR/blob/main/notebooks/How%20to%20load%20a%20dataset.ipynb)
+- ✍ [DETR Tensorflow - Finetuning tutorial.ipynb](https://github.com/RyanCCC/DETR/blob/main/notebooks/DETR%20Tensorflow%20-%20%20Finetuning%20tutorial.ipynb)
+- ✍ [DETR Tensorflow - How to setup a custom dataset.ipynb](https://github.com/RyanCCC/DETR/blob/main/notebooks/DETR%20Tensorflow%20-%20%20How%20to%20setup%20a%20custom%20dataset.ipynb)
 - 🚀 [Finetuning DETR on Tensorflow - A step by step guide](https://wandb.ai/thibault-neveu/detr-tensorflow-log/reports/Finetuning-DETR-on-Tensorflow-A-step-by-step-tutorial--VmlldzozOTYyNzQ)
 
 
