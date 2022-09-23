@@ -7,7 +7,7 @@ import tensorflow as tf
 
 from detr.loss.compute_map import cal_map, calc_map, APDataObject
 from .wandb_logging import WandbSender
-from inference import get_model_inference
+from detr.inference import get_model_inference
 
 
 import numpy as np
