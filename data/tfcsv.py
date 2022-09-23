@@ -7,7 +7,7 @@ import os
 
 from .import processing
 from .transformation import detr_transform
-from .. import bbox
+from detr import bbox
 
 def load_data_from_index(index, class_names, filenames, anns, config, augmentation, img_dir):
     # Open the image

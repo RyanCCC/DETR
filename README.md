@@ -34,6 +34,12 @@ detr-tensorflow](https://github.com/Visual-Behavior/detr-tensorflow)。DETR网�
 
 执行命令：```python train_coco.py --data_dir /path/to/COCO --batch_size 8  --target_batch 32 --log```。
 
+预训练模型下载：
+
+1. pytorch预训练模型下载仓库：https://github.com/facebookresearch/detr
+
+2. tensorflow预训练模型下载仓库：https://github.com/Leonardo-Blanger/detr_tensorflow
+
 ## 模型微调
 
 微调的基本流程：
@@ -81,4 +87,3 @@ training.fit(detr, train_dt, optimzers, config, epoch_nb, class_names)
 - ann_file：测试集Ground True
 
 执行命令:```python eval.py --data_dir /path/to/coco/dataset --img_dir val2017 --ann_file annotations/instances_val2017.json```
-
