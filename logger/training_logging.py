@@ -13,7 +13,7 @@ from detr.inference import get_model_inference
 import numpy as np
 import cv2
 
-from ..import bbox
+from  detr import bbox
 
 if int(tf.__version__.split('.')[1]) >= 4:
     RAGGED = True

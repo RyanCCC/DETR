@@ -13,7 +13,7 @@ except:
 
 import cv2
 
-from ..loss.compute_map import cal_map, calc_map, APDataObject
+from detr.loss.compute_map import cal_map, calc_map, APDataObject
 
 class WandbSender(object):
     """
